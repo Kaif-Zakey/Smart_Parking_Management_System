@@ -363,7 +363,7 @@ We welcome contributions! Here's how to get started:
 
 🏫 **Institution**: IJSE - Graduate Diploma in Software Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kaif-Zakey-black?style=flat-square&logo=github)](https://github.com/Kaif-Zakey)
+[![GitHub](https://img.shields.io/badge/GitHub-KaifZakey-black?style=flat-square&logo=github)](https://github.com/Kaif-Zakey)
 
 </div>
 
