@@ -281,7 +281,7 @@ http://localhost:8761
 <div align="center">
 
 ![Dashboard](https://img.shields.io/badge/Dashboard-Live-green?style=for-the-badge&logo=grafana)
-![Eureka Dashboard](./Smart-Parking-Management-System-Microservice-Based-Application/docs/screenshots/eureka_dashboard.png)
+![Eureka Dashboard](./docs/screenshots/eureka_dashboard.png)
 
 
 </div>
